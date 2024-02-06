@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@400;600;700&family=Kaushan+Script&family=Montserrat:wght@600&family=Poppins:wght@300;400;500;600;700;800&family=Raleway:wght@400;600;700;800&family=Roboto&family=Teko:wght@500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e7e7e9 !important;
+  overflow-x: hidden;
+}
